@@ -125,6 +125,16 @@ pio run -t upload --upload-port /dev/ttyUSB0
 
 ---
 
+## Photos
+
+**ESP32-CAM mounted in greenhouse — clipped to tent frame pointing down at canopy**
+![ESP32-CAM mount](IMG_20260407_232853479_HDR.jpg)
+
+**CYD display showing live feed — plants under 1000W HPS lighting**
+![CYD live feed](IMG_20260408_000431.jpg)
+
+---
+
 ## Known Issues
 
 ### Clock resets on power loss
