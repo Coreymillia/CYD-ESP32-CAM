@@ -127,7 +127,7 @@ pio run -t upload --upload-port /dev/ttyUSB0
 
 ## Photos
 
-**ESP32-CAM mounted in greenhouse — clipped to tent frame pointing down at canopy**
+**ESP32-CAM mounted in greenhouse — clipped to hood pointing down at canopy**
 ![ESP32-CAM mount](IMG_20260407_232853479_HDR.jpg)
 
 **CYD display showing live feed — plants under 1000W HPS lighting**
